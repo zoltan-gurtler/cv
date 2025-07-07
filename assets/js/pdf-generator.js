@@ -19,10 +19,15 @@ function generatePDF() {
       const container = document.createElement("div");
       container.innerHTML = html;
 
+      // Get name from the DOM (as defined in data.yml)
+      const name = document.querySelector(".name").textContent;
+      // Format filename: replace spaces with underscores and append _resume.pdf
+      const filename = `${name.replace(/\s+/g, "_")}_Resume.pdf`;
+
       // Configure pdf options
       const opt = {
         margin: 10,
-        filename: "resume.pdf",
+        filename: filename,
         image: { type: "jpeg", quality: 0.98 },
         html2canvas: {
           scale: 2,
