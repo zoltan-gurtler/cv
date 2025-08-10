@@ -3,7 +3,7 @@
 #
 
 sidebar:
-  position: left # position of the sidebar : left or right
+  position: right # position of the sidebar : left or right
   about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
@@ -18,7 +18,7 @@ sidebar:
   timezone: #America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: #https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: <a href="https://www.linkedin.com/in/zoltan-gurtler/" target="_blank">zoltan-gurtler</a>
+  linkedin: [zoltan-gurtler](https://www.linkedin.com/in/zoltan-gurtler/)
   #xing: alandoe
   github: #jekyll
   telegram: # add your nickname without '@' sign
@@ -53,14 +53,10 @@ sidebar:
       link:
 
 career-profile:
-  title: Career Profile
+  title: Philosophy
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    It isn't bad, it will just be good for something else. 
+  # [download this free resume/CV template here]().
 education:
   title: Education
   info:
@@ -90,44 +86,24 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: LEAN based Business Process Developer
+    time: 2018 - 2024
+    company: Governmental Agency for IT Development, Budapest
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Design, reorganize, continuously measure an develop Business processes to reduce the lead time and the potential failures, based on LEAN spirit. Increase efficiency and user experience with focusing to the business value.
+        - The traceability of the processes increased by 50%, and the lead time decreased by 30%.
+        - By reducing redundancy, organizing repetitive tasks into sub-processes, and using a modular process approach, the development and maintenance time is reduced by 25%.
+        - Mapping, optimization of business processes, introduction of IT support (WorkflowGen) and maintenance (PDCA) on LEAN fundamentals, focusing on the business value.
+        - Building order and then a system out of the previously "disrupted" business processes and the chaos around them.
 
+  - role: Developer, Software Engineer
+    time: 2014 - 2015
+    company: Parallel Ltd., Budapest
+    details: |
+      Use of Microsoft Visual FoxPro programming environment, SQL knowledge
+        - Design and operation of Content Management Systems like: Joomla!, WordPress. Reduction of maintenance time by 75%.
+        - Web Development: PHP / Javascript programming skills; SEO search engine optimization; Use of Google Webmaster Tools, Google Analytics, Google Search Console and other tools
+        
 certifications:
   title: Certifications
   list:
