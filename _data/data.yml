@@ -60,26 +60,18 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Infrastructure Development Civil Engineer (Urban specialization) 
+    university: Szent István University Faculty of Ybl Miklós Architecture and Civil Engineer
+    time: 2008 - n.a.
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
+      Describe your study here.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: Industrial Electronics Technician
+    university: Kolos Richárd Metropolitan Training Technical School
+    time: 2002 - 2004
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
+      Describe your study here.
         - Bullet point
         - Bullet point
 
@@ -96,14 +88,41 @@ experiences:
         - Mapping, optimization of business processes, introduction of IT support (WorkflowGen) and maintenance (PDCA) on LEAN fundamentals, focusing on the business value.
         - Building order and then a system out of the previously "disrupted" business processes and the chaos around them.
 
+  - role: Product manager
+    time: 2017 - 2024
+    company: Governmental Agency for IT Development, Budapest
+    details: |
+      - Active involvement in the updating of the General Public Administration Project Management Procedure.
+      - Reorganization and maintenance of IT support for project management (Share Point account and application management).
+      - Establishing customer service according to ITIL, introducing SLAs.
+      - Continuous workshops with project managers and portfolio managers. Risk and problem management, Change management, Stakeholder management....
+
+  
   - role: Developer, Software Engineer
-    time: 2014 - 2015
+    time: 2012 - 2017
     company: Parallel Ltd., Budapest
     details: |
       Use of Microsoft Visual FoxPro programming environment, SQL knowledge
         - Design and operation of Content Management Systems like: Joomla!, WordPress. Reduction of maintenance time by 75%.
         - Web Development: PHP / Javascript programming skills; SEO search engine optimization; Use of Google Webmaster Tools, Google Analytics, Google Search Console and other tools
-        
+
+  - role: Product manager
+    time: 2006 - 2017
+    company: Parallel Ltd., Budapest
+    details: |
+      - Customer satisfaction increased by 50% during my work. Every second customer was dissatisfied when taking over a position, and there were no dissatisfied customers when the position was transferred.
+      - Support for users of self developed Construction Quality Management and Enterprise Resource Planning  softwares. Customer service, management of bug reports (helpdesk).
+      - Personal training and consultance. Support customers IT departments both domestically and abroad.
+      - Technical and IT support for engineers, technologists, laboratory managers, quality inspectors.
+
+  - role: System Administrator
+    time: 2005 - 2017
+    company: Parallel Ltd., Budapest
+    details: |
+      - Reorganization and operation of server services: MSSQL; MYSQL; ORACLE; APACHE; SMTP; IMAP; POP3; administration of nearly 100 domains, DNS management. Reduction of operating, OpEx costs by 50%.
+      - Planning and execution of email marketing campaigns incompliance with local laws. (GDPR, A-B tests)
+      - Operation of physical and virtual (VMware, Virtualbox, Hyper-V) servers: Microsoft, Linux; application virtualization
+
 certifications:
   title: Certifications
   list:
@@ -114,37 +133,15 @@ certifications:
     credentialid: ZG41120231
     credentialurl: https://nixstech.com/
     credentialname: NIX LDC
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
+    details: 
   - name: Junior Data Scientist Academy
     start: 2023
     end: 2023
     organization: Data36
     credentialid: cert_54nmynny
     credentialurl: https://data36.com/
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
+    credentialname: Data36
+    details: 
 projects:
   title: Projects
   intro: >
