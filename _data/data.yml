@@ -4,7 +4,7 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -18,7 +18,7 @@ sidebar:
   timezone: #America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: #https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: https://www.linkedin.com/in/zoltan-gurtler/
+  linkedin: zoltan-gurtler
   #xing: alandoe
   github: #jekyll
   telegram: # add your nickname without '@' sign
@@ -107,13 +107,13 @@ experiences:
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: Linux Administration / DevOps Course
+    start: 2023
+    end: 2023
+    organization: NIX United
+    credentialid: ZG41120231
+    credentialurl: https://nixstech.com/
+    credentialname: NIX LDC
     details: |
       Details about cert. Lorem ipsum dolor sit amet, consectetur
       adipiscing elit.
@@ -128,12 +128,12 @@ certifications:
       fringilla vel. Ut euismod, sem sed vulputate venenatis,
       justo diam viverra velit, sed rhoncus leo leo eu justo.
       Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
+  - name: Junior Data Scientist Academy
+    start: 2023
+    end: 2023
+    organization: Data36
+    credentialid: cert_54nmynny
+    credentialurl: https://data36.com/
     credentialname: Github
     details: |
       Older certification. Lorem ipsum dolor sit amet, consectetur
