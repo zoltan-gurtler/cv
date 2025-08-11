@@ -140,7 +140,7 @@ certifications:
     end: 2023
     organization: NIX United
     credentialid: ZG41120231
-    credentialurl: https://nixstech.com/
+    credentialurl: nixstech.com
     credentialname: NIX LDC
     details: 
   - name: Junior Data Scientist Academy
@@ -148,7 +148,7 @@ certifications:
     end: 2023
     organization: Data36
     credentialid: cert_54nmynny
-    credentialurl: https://data36.com/
+    credentialurl: data36.com
     credentialname: Data36
     details: 
 
