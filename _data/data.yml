@@ -78,6 +78,16 @@ education:
 experiences:
   title: Experiences
   info:
+  - role: Aspiring Data Scientist
+    time: 2023 - 2024
+    company: Governmental Agency for IT Development, Budapest
+    details: |
+        - Transform Management Information System from SharePoint to Power BI fundamentals.
+        - Hobbi projects:
+          - Analysis and visualization of user activity data of a Fictitious Travel Blog. 
+          Data cleaning was done in BASH, data preparation was done in POSTGRESQL, visualization was done in Looker Studio.
+          - Real estate advertising portal webscrape, analysis, visualization. The entire process runs in PYTHON
+  
   - role: LEAN based Business Process Developer
     time: 2018 - 2024
     company: Governmental Agency for IT Development, Budapest
@@ -92,12 +102,11 @@ experiences:
     time: 2017 - 2024
     company: Governmental Agency for IT Development, Budapest
     details: |
-      - Active involvement in the updating of the General Public Administration Project Management Procedure.
+      - Active involvement in the updating of the [General Public Administration Project Management Procedure](https://kifu.gov.hu/wp-content/uploads/2022/03/KIFU_Alt_Kozig_PM_Eljarasrend_v4.pdf).
       - Reorganization and maintenance of IT support for project management (Share Point account and application management).
       - Establishing customer service according to ITIL, introducing SLAs.
       - Continuous workshops with project managers and portfolio managers. Risk and problem management, Change management, Stakeholder management....
 
-  
   - role: Developer, Software Engineer
     time: 2012 - 2017
     company: Parallel Ltd., Budapest
@@ -142,10 +151,11 @@ certifications:
     credentialurl: https://data36.com/
     credentialname: Data36
     details: 
+
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    You can list your side projects in this section. 
   assignments:
   - title: Velocity
     link: "#hook"
@@ -170,7 +180,7 @@ projects:
 oss:
   title: OSS Contributions
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    You can list your open source software contributions in this section. 
   contributions:
   - title: Tempo
     link: "#"
@@ -187,9 +197,7 @@ oss:
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    You can list your publications in this section. 
   papers:
   - title: The Art of Computer Programming
     link: "#"
@@ -206,23 +214,23 @@ publications:
     authors: Edgar T. Irons
     conference: "Comm. ACM 4 (1961), 51–55"
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+# recommendations:
+#   title: Recommendations
+#   list:
+#   - person: Yareli Perez
+#     email: perezyareli@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       Alan Doe is a super employee!
+#   - person: Lara Henderson
+#     email: larah@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       I would like to work with Alan Doe again!
 
-      He is a great employee!
+#       He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
@@ -233,5 +241,5 @@ skills:
   - name: Python
     level: 80%
 
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
