@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Zoltán Gürtler
-  tagline: LEAN based Business Process Developer <br/> Aspiring Data Scientist <br/> Data Analyst
+  tagline: Aspiring Data Scientist <br/> Data Analyst <br/> LEAN based Business <br/> Process Developer
   avatar: gurtler_zoltan_cv.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -52,6 +52,10 @@ sidebar:
     - item: DIY projects
       link:
 
+    - item: Organisation
+      link:
+
+
 career-profile:
   title: Philosophy
   summary: |
@@ -62,7 +66,7 @@ education:
   info:
   - degree: Infrastructure Development Civil Engineer (Urban specialization) 
     university: Szent István University Faculty of Ybl Miklós Architecture and Civil Engineer
-    time: 2008 - n.a.
+    time: 2008 - 
     details: |
       Describe your study here.
         - Bullet point
@@ -140,7 +144,7 @@ certifications:
     end: 2023
     organization: NIX United
     credentialid: ZG41120231
-    credentialurl: nixstech.com
+    credentialurl: www.linkedin.com/in/zoltan-gurtler/overlay/1704832605619/single-media-viewer/?profileId=ACoAACEzfh8Bj2bBkKE1oOyoc7DxEprXPKxERQE
     credentialname: NIX LDC
     details: 
   - name: Junior Data Scientist Academy
@@ -148,71 +152,71 @@ certifications:
     end: 2023
     organization: Data36
     credentialid: cert_54nmynny
-    credentialurl: data36.com
+    credentialurl: www.linkedin.com/in/zoltan-gurtler/overlay/1704832670034/single-media-viewer/?profileId=ACoAACEzfh8Bj2bBkKE1oOyoc7DxEprXPKxERQE
     credentialname: Data36
     details: 
 
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. 
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+# projects:
+#   title: Projects
+#   intro: >
+#     You can list your side projects in this section. 
+#   assignments:
+#   - title: Velocity
+#     link: "#hook"
+#     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+#   - title: DevStudio
+#     link: "#"
+#     tagline: "A responsive website template designed to help web developers/designers market their services."
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#   - title: Tempo
+#     link: "#"
+#     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#   - title: Atom
+#     link: "#"
+#     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#   - title: Delta
+#     link: "#"
+#     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. 
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#   title: OSS Contributions
+#   intro: >
+#     You can list your open source software contributions in this section. 
+#   contributions:
+#   - title: Tempo
+#     link: "#"
+#     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#   - title: Atom
+#     link: "#"
+#     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#   - title: Delta
+#     link: "#"
+#     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. 
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+# publications:
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. 
+#   papers:
+#   - title: The Art of Computer Programming
+#     link: "#"
+#     authors: Donald E. Knuth
+#     conference: Addison-Wesley, 1968
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#     link: "#"
+#     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+#   - title: A syntax directed compiler for Algol 60
+#     link: "#"
+#     authors: Edgar T. Irons
+#     conference: "Comm. ACM 4 (1961), 51–55"
 
 # recommendations:
 #   title: Recommendations
