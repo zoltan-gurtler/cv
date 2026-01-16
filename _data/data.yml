@@ -240,8 +240,10 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: LEAN
+  - name: Lean
     level: 90%
+  - name: BASH
+    level: 80%
   - name: SQL
     level: 80%
   - name: Python
