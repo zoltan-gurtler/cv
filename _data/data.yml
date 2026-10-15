@@ -39,7 +39,6 @@ sidebar:
     info:
     - idiom: Hungarian
       level: Native
-
     - idiom: English
       level: Conversational
 
@@ -48,12 +47,12 @@ sidebar:
     info:
     - item: Automatisation
       link:
-
+    - item: Efficiency
+      link:
     - item: DIY projects
       link:
 
-    - item: Organisation
-      link:
+
 
 
 career-profile:
