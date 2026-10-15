@@ -82,6 +82,24 @@ education:
 experiences:
   title: Experiences
   info:
+  - role: Business Analyst and Aspiring Data Scientist
+    time: 2025 - 
+    company: Pro-M Professional Mobile and Network Service Provider Private Company, Ltd.
+    details: |
+        - Definition and implementation of ITIL service level management (SLM) based on asset availability. (Power BI dashboard) 
+          - Task: Providing validated / reviewed, verifiable, trustworthy status data to parent organizations according to different levels of individually defined and continuously redefined, network segments / asset groups. 
+          - Challenges: 
+            - Data standardization across 4 monitoring systems (ICINGA) operating under different nomenclature and configuration management. 
+            - Utilizing internal, custom-developed system that does not fully fulfill CRM and ASSET MANAGEMENT functions. 
+            - Comparison and modification of data generated according to business requirements, based on data of a custom-developed EVENTLOG-like system. 
+            - Monitoring and root-cause analysis of deviations/anomalies, making recommendations to increase service quality.
+          - The solution:
+            - Data preparation (BASH, MariaDB/MYSQL, STORED PROCEDURES - FUNCTIONS): Creating an independent database to meet business needs (Data source cannot be modified, but the difference between the original and validated data should be traceable).
+            - Data cleansing (PYTHON): Modifying data according to purpose and need.
+            - Automation (BASH, PYTHON): Resource requirements of data movement, conversion/modification, and generation tasks are low, thanks to stored procedures and functions. 
+            - Backup tasks are logged and can be handed over to operations. 
+            - Developing a validation procedure and <b>reducing manual effort by 90%!</b> 
+
   - role: Aspiring Data Scientist
     time: 2023 - 2024
     company: Governmental Agency for IT Development, Budapest
@@ -97,8 +115,8 @@ experiences:
     company: Governmental Agency for IT Development, Budapest
     details: |
       Design, reorganize, continuously measure an develop Business processes to reduce the lead time and the potential failures, based on LEAN spirit. Increase efficiency and user experience with focusing to the business value.
-        - The traceability of the processes increased by 50%, and the lead time decreased by 30%.
-        - By reducing redundancy, organizing repetitive tasks into sub-processes, and using a modular process approach, the development and maintenance time is reduced by 25%.
+        - <b>The traceability of the processes increased by 50%, and the lead time decreased by 30%.</b>
+        - By reducing redundancy, organizing repetitive tasks into sub-processes, and using a modular process approach, <b> the development and maintenance time is reduced by 25%.</b>
         - Mapping, optimization of business processes, introduction of IT support (WorkflowGen) and maintenance (PDCA) on LEAN fundamentals, focusing on the business value.
         - Building order and then a system out of the previously "disrupted" business processes and the chaos around them.
 
